@@ -1,5 +1,5 @@
 
-lves the lock boxes puzzle """
+"""lves the lock boxes puzzle """
 
 
 def look_next_opened_box(opened_boxes):
